@@ -16,7 +16,7 @@ To apply the skybox (with Kliko's Roblox modloader):
 OR - Drag and drop the PlatformContent folder from the newly created folder into the folder of the mod that you want to add it to and run
 - run Setup.exe to apply the mod
 
-To apply the mod (default Roblox):
+To apply the skybox (default Roblox):
 - Open the newly created folder
 - Go to '%localappdata%/roblox/versions' and open the latest version
 - Drag and drop teh PlatformContent folder from the newly created folder into the latest version folder
